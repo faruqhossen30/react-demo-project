@@ -1,0 +1,11 @@
+.banner_photo img{
+  width: 100%;
+  height: auto;
+}
+.pro_desc{
+  font-size: .9rem;
+}
+
+.border_none {
+  border: none;
+}

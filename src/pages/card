@@ -1,0 +1,16 @@
+<div className="col-md-4 p-2">
+                        <div className="card">
+                            <h5 className='card-header'>Product Title</h5>
+                            <div className="card-body p-0">
+                                <img src="https://cdn.thisiswhyimbroke.com/images/icicle-lights-640x534.jpg" class="card-img-top" alt="..." />
+                                <p className="card-text my-1 p-2 text-justify pro_desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, atque, quam illum iure eligendi possimus assumenda deserunt voluptatum, labore ratione natus deleniti unde mollitia nobis odit autem architecto necessitatibus. Omnis.</p>
+                                <div className='card-footer p-2'>
+                                    <p className='font-weight-bold float-left text-secondary'>Price : $25.75</p>
+                                    <div className='float-right'>
+                                        <a className='font-weight-bold btn-sm btn btn-warning text-uppercase text-white' href="">check out</a>
+                                        <a className='font-weight-bold btn-sm btn btn-warning text-uppercase text-white ml-3' href="">check out</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
